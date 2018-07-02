@@ -1,0 +1,6 @@
+Good to know commands for vim:
+
+./a.out - Run the compiled C program
+gcc [program name] - Compile a C program
+vim [program name] - Open the text file for a specific program name
+
