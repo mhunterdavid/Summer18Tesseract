@@ -4,3 +4,6 @@ Good to know commands for vim:
 gcc [program name] - Compile a C program
 vim [program name] - Open the text file for a specific program name
 
+learn-c.org is the website to use for learning C
+
+.vimrc file is located in Users/hunterdavid using ls -a
