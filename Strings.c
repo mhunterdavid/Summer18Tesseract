@@ -12,5 +12,5 @@ int main()
 'strcmp' - An unsafe version of strncmp
 */
 	
-	 	
+	printf("strlen(first_name)\n");	 	
 	
